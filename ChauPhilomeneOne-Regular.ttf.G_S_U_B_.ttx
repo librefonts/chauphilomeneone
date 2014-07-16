@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=3 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=3 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=3 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="F">
+            <Ligature components="igrave" glyph="F_igrave"/>
+            <Ligature components="iacute" glyph="F_iacute"/>
+            <Ligature components="i" glyph="F_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="T">
+            <Ligature components="igrave" glyph="T_igrave"/>
+            <Ligature components="iacute" glyph="T_iacute"/>
+            <Ligature components="i" glyph="T_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="V">
+            <Ligature components="igrave" glyph="V_igrave"/>
+            <Ligature components="iacute" glyph="V_iacute"/>
+            <Ligature components="i" glyph="V_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="W">
+            <Ligature components="igrave" glyph="W_igrave"/>
+            <Ligature components="iacute" glyph="W_iacute"/>
+            <Ligature components="i" glyph="W_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="Y">
+            <Ligature components="igrave" glyph="Y_igrave"/>
+            <Ligature components="iacute" glyph="Y_iacute"/>
+            <Ligature components="i" glyph="Y_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="f">
+            <Ligature components="igrave" glyph="f_igrave"/>
+            <Ligature components="iacute" glyph="f_iacute"/>
+            <Ligature components="l" glyph="fl"/>
+            <Ligature components="i" glyph="fi"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="t,igrave" glyph="t_t_igrave"/>
+            <Ligature components="t,iacute" glyph="t_t_iacute"/>
+            <Ligature components="t,i" glyph="t_t_i"/>
+            <Ligature components="igrave" glyph="t_igrave"/>
+            <Ligature components="iacute" glyph="t_iacute"/>
+            <Ligature components="i" glyph="t_i"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="a" out="A_smcp"/>
+          <Substitution in="aacute" out="A_smcpacute"/>
+          <Substitution in="acircumflex" out="A_smcpcircunflex"/>
+          <Substitution in="adieresis" out="A_smcpdieresis"/>
+          <Substitution in="ae" out="AE_smcp"/>
+          <Substitution in="agrave" out="A_smcpgrave"/>
+          <Substitution in="aring" out="A_smcpring"/>
+          <Substitution in="atilde" out="A_smcptilde"/>
+          <Substitution in="b" out="B_smcp"/>
+          <Substitution in="c" out="C_smcp"/>
+          <Substitution in="d" out="D_smcp"/>
+          <Substitution in="e" out="E_smcp"/>
+          <Substitution in="eacute" out="E_smcpacute"/>
+          <Substitution in="ecircumflex" out="E_smcpcircunflex"/>
+          <Substitution in="edieresis" out="E_smcpdieresis"/>
+          <Substitution in="egrave" out="E_smcpgrave"/>
+          <Substitution in="f" out="F_smcp"/>
+          <Substitution in="f_iacute" out="f_iacute_smcp"/>
+          <Substitution in="f_igrave" out="f_igrave_smcp"/>
+          <Substitution in="fi" out="fi_smcp"/>
+          <Substitution in="fl" out="fl_smcp"/>
+          <Substitution in="g" out="G_smcp"/>
+          <Substitution in="h" out="H_smcp"/>
+          <Substitution in="i" out="I_smcp"/>
+          <Substitution in="iacute" out="I_smcpacute"/>
+          <Substitution in="icircumflex" out="I_smcpcircunflex"/>
+          <Substitution in="idieresis" out="I_smcpdieresis"/>
+          <Substitution in="igrave" out="I_smcpgrave"/>
+          <Substitution in="j" out="J_smcp"/>
+          <Substitution in="k" out="K_smcp"/>
+          <Substitution in="l" out="L_smcp"/>
+          <Substitution in="m" out="M_smcp"/>
+          <Substitution in="n" out="N_smcp"/>
+          <Substitution in="ntilde" out="Ntilde_smcp"/>
+          <Substitution in="o" out="O_smcp"/>
+          <Substitution in="oacute" out="O_smcpacute"/>
+          <Substitution in="ocircumflex" out="O_smcpcircunflex"/>
+          <Substitution in="odieresis" out="O_smcpdieresis"/>
+          <Substitution in="oe" out="OE_smcp"/>
+          <Substitution in="ograve" out="O_smcpgrave"/>
+          <Substitution in="otilde" out="O_smcptilde"/>
+          <Substitution in="p" out="P_smcp"/>
+          <Substitution in="q" out="Q_smcp"/>
+          <Substitution in="r" out="R_smcp"/>
+          <Substitution in="s" out="S_smcp"/>
+          <Substitution in="t" out="T_smcp"/>
+          <Substitution in="t_i" out="t_i_smcp"/>
+          <Substitution in="t_iacute" out="t_iacute_smcp"/>
+          <Substitution in="t_igrave" out="t_igrave_smcp"/>
+          <Substitution in="t_t_i" out="t_t_i_smcp"/>
+          <Substitution in="t_t_iacute" out="t_t_iacute_smcp"/>
+          <Substitution in="t_t_igrave" out="t_t_igrave_smcp"/>
+          <Substitution in="u" out="U_smcp"/>
+          <Substitution in="uacute" out="U_smcpacute"/>
+          <Substitution in="ucircumflex" out="U_smcpcircunflex"/>
+          <Substitution in="udieresis" out="U_smcpdieresis"/>
+          <Substitution in="ugrave" out="U_smcpgrave"/>
+          <Substitution in="v" out="V_smcp"/>
+          <Substitution in="w" out="W_smcp"/>
+          <Substitution in="x" out="X_smcp"/>
+          <Substitution in="y" out="Y_smcp"/>
+          <Substitution in="yacute" out="Y_smcpacute"/>
+          <Substitution in="ydieresis" out="Y_smcpdieresis"/>
+          <Substitution in="z" out="Z_smcp"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight" out="eight_onum"/>
+          <Substitution in="five" out="five_onum"/>
+          <Substitution in="four" out="four_onum"/>
+          <Substitution in="nine" out="nine_onum"/>
+          <Substitution in="one" out="one_onum"/>
+          <Substitution in="seven" out="seven_onum"/>
+          <Substitution in="six" out="six_onum"/>
+          <Substitution in="three" out="three_onum"/>
+          <Substitution in="two" out="two_onum"/>
+          <Substitution in="zero" out="zero_onum"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>

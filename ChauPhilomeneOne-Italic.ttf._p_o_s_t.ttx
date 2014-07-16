@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-75"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="Euro"/>
+      <psName name="CR"/>
+      <psName name="T_i"/>
+      <psName name="F_i"/>
+      <psName name="V_i"/>
+      <psName name="W_i"/>
+      <psName name="Y_i"/>
+      <psName name="t_i"/>
+      <psName name="T_iacute"/>
+      <psName name="T_igrave"/>
+      <psName name="F_iacute"/>
+      <psName name="F_igrave"/>
+      <psName name="V_iacute"/>
+      <psName name="V_igrave"/>
+      <psName name="Y_iacute"/>
+      <psName name="Y_igrave"/>
+      <psName name="W_iacute"/>
+      <psName name="W_igrave"/>
+      <psName name="t_iacute"/>
+      <psName name="t_igrave"/>
+      <psName name="A_smcp"/>
+      <psName name="B_smcp"/>
+      <psName name="C_smcp"/>
+      <psName name="D_smcp"/>
+      <psName name="E_smcp"/>
+      <psName name="F_smcp"/>
+      <psName name="G_smcp"/>
+      <psName name="H_smcp"/>
+      <psName name="I_smcp"/>
+      <psName name="J_smcp"/>
+      <psName name="K_smcp"/>
+      <psName name="L_smcp"/>
+      <psName name="M_smcp"/>
+      <psName name="N_smcp"/>
+      <psName name="O_smcp"/>
+      <psName name="P_smcp"/>
+      <psName name="Q_smcp"/>
+      <psName name="R_smcp"/>
+      <psName name="S_smcp"/>
+      <psName name="T_smcp"/>
+      <psName name="U_smcp"/>
+      <psName name="V_smcp"/>
+      <psName name="W_smcp"/>
+      <psName name="X_smcp"/>
+      <psName name="Y_smcp"/>
+      <psName name="Z_smcp"/>
+      <psName name="Ntilde_smcp"/>
+      <psName name="zero_onum"/>
+      <psName name="one_onum"/>
+      <psName name="two_onum"/>
+      <psName name="three_onum"/>
+      <psName name="four_onum"/>
+      <psName name="five_onum"/>
+      <psName name="six_onum"/>
+      <psName name="seven_onum"/>
+      <psName name="eight_onum"/>
+      <psName name="nine_onum"/>
+      <psName name="A_smcpacute"/>
+      <psName name="E_smcpacute"/>
+      <psName name="I_smcpacute"/>
+      <psName name="O_smcpacute"/>
+      <psName name="U_smcpacute"/>
+      <psName name="A_smcpgrave"/>
+      <psName name="E_smcpgrave"/>
+      <psName name="I_smcpgrave"/>
+      <psName name="O_smcpgrave"/>
+      <psName name="U_smcpgrave"/>
+      <psName name="A_smcpcircunflex"/>
+      <psName name="E_smcpcircunflex"/>
+      <psName name="I_smcpcircunflex"/>
+      <psName name="O_smcpcircunflex"/>
+      <psName name="U_smcpcircunflex"/>
+      <psName name="A_smcpdieresis"/>
+      <psName name="E_smcpdieresis"/>
+      <psName name="I_smcpdieresis"/>
+      <psName name="O_smcpdieresis"/>
+      <psName name="U_smcpdieresis"/>
+      <psName name="Y_smcpacute"/>
+      <psName name="Y_smcpdieresis"/>
+      <psName name="A_smcpring"/>
+      <psName name="AE_smcp"/>
+      <psName name="OE_smcp"/>
+      <psName name="O_smcptilde"/>
+      <psName name="A_smcptilde"/>
+      <psName name="t_t_i"/>
+      <psName name="t_t_iacute"/>
+      <psName name="t_t_igrave"/>
+      <psName name="f_iacute"/>
+      <psName name="f_igrave"/>
+      <psName name="fi_smcp"/>
+      <psName name="fl_smcp"/>
+      <psName name="t_i_smcp"/>
+      <psName name="t_iacute_smcp"/>
+      <psName name="t_igrave_smcp"/>
+      <psName name="t_t_i_smcp"/>
+      <psName name="t_t_iacute_smcp"/>
+      <psName name="t_t_igrave_smcp"/>
+      <psName name="f_iacute_smcp"/>
+      <psName name="f_igrave_smcp"/>
+    </extraNames>
+  </post>
+
+</ttFont>
