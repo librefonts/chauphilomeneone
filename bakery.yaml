@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [ChauPhilomeneOne-Regular.ttf.ttx, ChauPhilomeneOne-Italic.ttf.ttx,
+  src/ChauPhilomeneOne-Regular.otf.ttx, src/ChauPhilomeneOne-Italic.otf.ttx, src/ChauPhilomeneOne-Italic-TTF.sfd,
+  src/ChauPhilomeneOne-Regular-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
